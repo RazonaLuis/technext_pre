@@ -1,0 +1,113 @@
+/* header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1dace0;
+  color: #fff;
+  font-size: 18px;
+  padding: 5px 80px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-left img {
+  height: 60px;
+  margin-right: 20px
+}
+
+.header-left .name {
+  color: #eae51f;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-right div:first-child {
+  margin-right: 20px;
+}
+/* headerここまで */
+
+/* welcome */
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-image: url(../img/background1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+}
+
+.title{
+  font-size: 80px;
+}
+
+.guideline {
+  margin-top: 50px;
+  font-size: 40px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.guideline li {
+  margin-top: 16px;
+}
+
+.guideline li:first-child {
+  margin-top: 0px;
+}
+/* welcomeここまで */
+
+/* programming, English共通 */
+.programming,
+.english {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.curriculum-img {
+  height: 400px;
+}
+
+.text-box {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ddd;
+}
+
+.programming .title,
+.english .title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.description {
+  line-height: 32px;
+  font-size: 22px;
+}
+/* programming, English共通ここまで */
+
+/* footer */
+.footer {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  background-color: #233f51;
+  color: #fff;
+  font-size: 18px;
+  padding: 20px 0;
+}
+/* footerここまで */
