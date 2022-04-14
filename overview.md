@@ -27,7 +27,7 @@ Web基礎
 HTML/CSS基礎
 JavaScript基礎
 以下のリンクからzipファイルをダウンロードしてください。
-[猫画像をDL](attach:pre-master)
+[リンク](attach:./pre-master.zip)
 
 ※一部事前学習の回答を記述するファイル、回答例が入っています。
 
