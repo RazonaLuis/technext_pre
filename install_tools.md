@@ -9,6 +9,7 @@
 
 ## インストール手順
 ・Google Chrome
+
 ![chrome link](./img/chrome.jpg)
 
 MacにはSafari、WindowsにはIEまたはEdgeがデフォルトのブラウザとして用意されていますが、
