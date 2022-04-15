@@ -10,7 +10,7 @@
 ## インストール手順
 ・Google Chrome
 
-![chrome link](./img/chrome.jpg)
+![chrome link](../img/chrome.jpg)
 
 MacにはSafari、WindowsにはIEまたはEdgeがデフォルトのブラウザとして用意されていますが、
 ブラウザには、開発者用の様々な機能が付いているGoogle Chromeがオススメです。
@@ -22,7 +22,7 @@ https://www.google.co.jp/chrome/index.html
 
 ・Visual Studio Code
 
-![visual studio link](./img/visualstudio.PNG)
+![visual studio link](../img/visualstudio.PNG)
 
 コードを書くためには、テキストエディタというプログラムのソースコードを編集するためのツールが必要です。
 現役のエンジニアやデザイナーが現場でよくつかっているVisual Studio Codeを利用してプログラミングを進めていきます。

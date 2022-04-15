@@ -14,24 +14,24 @@ VS Codeとは、テキストエディタと呼ばれる種類のツールで、�
 ### ドラッグ＆ドロップ
 1. VS CodeとFinderを同時に開き、編集したいファイルをドラッグし、VS Codeのウィンドウ上の、どこでもいいのでドロップします。
 
-![Open file in VS Code](./img/html/vs_open_file.png)
+![Open file in VS Code](../img/html/vs_open_file.png)
 
 2. ファイルが自動的に開かれます。
 
-![Open file in VS Code](./img/html/vs_opened_file.png)
+![Open file in VS Code](../img/html/vs_opened_file.png)
 
 
 ### メニューバーから開く
 
 1. カーソルを画面の一番上に合わせると、以下のようなメニューバーが表示されます
-![Open file in VS Code](./img/html/vs_menubar.png)
+![Open file in VS Code](../img/html/vs_menubar.png)
 2. File / Open...をクリックしてください。
-![Open file in VS Code](./img/html/vs_open_from_menu1.png)
+![Open file in VS Code](../img/html/vs_open_from_menu1.png)
 3.  開きたいファイル、またはフォルダを選択して、Openをクリックします。
-![Open file in VS Code](./img/html/vs_open_from_menu2.png)
+![Open file in VS Code](../img/html/vs_open_from_menu2.png)
 1. ファイルではなくディレクトリ(フォルダ)をドラッグ＆ドロップすると、左側にディレクトリ階層が表示されます。 プログラミングをする場合、一度に複数のファイルを使用することが多いため、 基本的にこちらの使い方をしましょう。
 <br>左側に階層が表示されない場合は左上のアイコンをクリックしてください。
-![Open file in VS Code](./img/html/vs_opened_folder.png)
+![Open file in VS Code](../img/html/vs_opened_folder.png)
 
 
 <br>
@@ -43,15 +43,15 @@ VS Codeとは、テキストエディタと呼ばれる種類のツールで、�
 VS Codeには、便利な機能が元々たくさん備わっていますが、拡張機能を追加することで、自分の好みに合わせた環境にカスタマイズすることが可能です。ここでは、授業の中でも使う「Live Server」という拡張機能をインストールしてみましょう。
 
 1. 左側にアイコンが５つ並んでいます。下から２番目のアイコンをクリック、検索バーを表示しましょう。
-![Extensions](./img/html/vs_extention1.png)
+![Extensions](../img/html/vs_extention1.png)
 2. 1. 検索バーに「live server」と検索。
    2. 検索結果の一番上のものをクリック。
    3. 「Install」と書いてある緑色のボタンをクリックしましょう。
-![Extensions](./img/html/vs_extension2.png)
+![Extensions](../img/html/vs_extension2.png)
 1. 左上のアイコンをクリックして、index.htmlファイルに戻りましょう。すると、画面一番下の青いバーに「Go Live」の文字が追加されているのでクリックするとHTMLファイルがGoogle Chrome上で開かれます。または、右クリックを押し、「Open with Live Server」をクリックでも同様の操作ができます。
 <br>※「Go Live」もしくは「Open with Live Server」が表示されない場合は、VS Codeを再起動してみてください。
 
-![Extensions](./img/html/vs_extension3.png)
+![Extensions](../img/html/vs_extension3.png)
 
 <br>
 <br>
