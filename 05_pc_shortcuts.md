@@ -35,3 +35,7 @@ B未満の場合は、B以上になるように特訓しましょう。
 スクリーンショット（選択部分）	command + shift + 4	-
 なお、ショートカットは各ツール固有のものも存在します。
 よく使うツールのショートカットは積極的に覚えるようにしましょう。
+
+## チェック表
+下記のリンクをクリックしてチェック表に答えてください！<br>
+https://docs.google.com/forms/d/e/1FAIpQLSdKztl1XYlnOfvOUxILUm9nrORq3yj0Zd2Ht_is5no_Fay8mw/viewform?usp=sf_link
