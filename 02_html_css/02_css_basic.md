@@ -148,7 +148,7 @@ CSSの構文は以下の通りシンプルなものです。
 というパターンで、行末にセミコロン（;）を書きます。  
 また、「何を: どのようにする」という部分は必要に応じて複数追加できます。
 
-![Overview](./img/css/how_to_write.png)
+![Overview](../img/css/how_to_write.png)
 
 ### 例
 ```
@@ -252,14 +252,14 @@ div {
 ## 要素の構造
 要素の構造は、次のようになっています。
 
-![コンテンツの構造](./img/css/structure.png)
+![コンテンツの構造](../img/css/structure.png)
 
 以下のボタンの例でいうと、  
 「出席」、「学習スタート」という文字が`コンテンツ`  
 黒い線が`border`  
 「出席」と黒い線の間が`padding`  
 「出席ボタン」と「学習スタートボタン」の間が`margin`となります。  
-![ボタン](./img/css/btn.png)
+![ボタン](../img/css/btn.png)
 
 marginやpaddingは以下のように指定できます。
 
