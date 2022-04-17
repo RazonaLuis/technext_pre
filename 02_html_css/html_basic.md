@@ -308,7 +308,8 @@ Google chromeにドラックアンドドロップするだけです。
     <h6>見出し6</h6>
 </div>
 ```
-結果
+#### 結果
+![結果](../img/html/h.png)
 
 ②行と段落
 p(段落)
@@ -321,8 +322,8 @@ br(改行)
 ```html
 <p>ここは最初の段落です。<br>ここで改行されます。</p>
 ```
-結果
-結果
+#### 結果
+![結果](../img/html/p.png)
 
 ③リスト
 ul（順不同リスト）、ol（序列リスト）、li（リスト項目）
@@ -342,8 +343,9 @@ ul（順不同リスト）、ol（序列リスト）、li（リスト項目）
     <li>項目2</li>
 </ol>
 ```
-結果
-結果
+#### 結果
+![結果](../img/html/list.png)
+
 ```html
 <!-- こういう書き方はNG！ -->
 <ul>
@@ -391,8 +393,8 @@ th, td
       </table>
   </div>
 ```
-結果
-結果
+#### 結果
+![結果](../img/html/table.png)
 
 ⑤リンク
 `<a>`でリンクを作成できます。
@@ -403,7 +405,7 @@ th, td
 他ページへのリンク
 ```html
 <div>
-    <a href="https://nexseed.net">NexSeed</a>
+    <a href="https://technext.dreamcatcher.jp">TechNext</a>
 </div>
 ```
 ページ内リンク
@@ -421,8 +423,8 @@ th, td
 
  <h2 id="section-01">概要</h2>
 ```
-結果
-結果
+##### 結果
+![結果](../img/html/link.png)
 
 ⑥画像
 `<img>`を使用することで、画像を表示することができます。
@@ -431,11 +433,11 @@ alt属性には`<src>`の画像が何かを書きます。
 画像が表示できない場合に画面に表示されます。
 ```html
  <div>
-     <img src="http://nexseed.net/images/logo.jpg" alt="NexSeed_logo">
+     <img src="../img/html/technext_logo.webp" alt="TechNext_logo">
  </div>
  ```
-結果
-結果
+#### 結果
+![結果](../img/html/technext_logo.webp)
 
 ⑦フォーム
 formを使用することで、
@@ -481,17 +483,17 @@ formを使用することで、
      </form>
   </div>
 ```
-結果
-結果
+#### 結果
+![結果](../img/html/form.png)
 
-まとめ
+## まとめ
 非常に多くのことを書いていますが、
 現時点で細かいところまで100%理解する必要はありません。
 
 以下の4つに関して説明してますが、
 まずは、概要だけ抑えておきましょう。
 
-HTMLとは何か
-書き方と各部の名称
-HTMLの基本構成
-ブロック要素とインライン要素について
+1. HTMLとは何か
+2. 書き方と各部の名称
+3. HTMLの基本構成
+4. ブロック要素とインライン要素について
