@@ -109,7 +109,7 @@ HTMLで使用されるタグ要素を紹介したので、
 
 HTMLは複数のタグで構成されます。 大きく分けると次のような構造になります。
 
-![構造](../img/html/constraction.jpg)<br>
+![構造](../img/constraction.jpg)<br>
 
 上の構造をHTMLのコードで表すと以下のようになります。
 以下のコードはどんなWebサイトを作成する場合でも
@@ -309,7 +309,7 @@ Google chromeにドラックアンドドロップするだけです。
 </div>
 ```
 #### 結果
-![結果](../img/html/h.png)
+![結果](../img/h.png)
 
 ②行と段落
 p(段落)
@@ -323,7 +323,7 @@ br(改行)
 <p>ここは最初の段落です。<br>ここで改行されます。</p>
 ```
 #### 結果
-![結果](../img/html/p.png)
+![結果](../img/p.png)
 
 ③リスト
 ul（順不同リスト）、ol（序列リスト）、li（リスト項目）
@@ -344,7 +344,7 @@ ul（順不同リスト）、ol（序列リスト）、li（リスト項目）
 </ol>
 ```
 #### 結果
-![結果](../img/html/list.png)
+![結果](../img/list.png)
 
 ```html
 <!-- こういう書き方はNG！ -->
@@ -394,7 +394,7 @@ th, td
   </div>
 ```
 #### 結果
-![結果](../img/html/table.png)
+![結果](../img/table.png)
 
 ⑤リンク
 `<a>`でリンクを作成できます。
@@ -424,7 +424,7 @@ th, td
  <h2 id="section-01">概要</h2>
 ```
 ##### 結果
-![結果](../img/html/link.png)
+![結果](../img/link.png)
 
 ⑥画像
 `<img>`を使用することで、画像を表示することができます。
@@ -433,11 +433,11 @@ alt属性には`<src>`の画像が何かを書きます。
 画像が表示できない場合に画面に表示されます。
 ```html
  <div>
-     <img src="../img/html/technext_logo.webp" alt="TechNext_logo">
+     <img src="../img/technext_logo.webp" alt="TechNext_logo">
  </div>
  ```
 #### 結果
-![結果](../img/html/technext_logo.webp)
+![結果](../img/technext_logo.webp)
 
 ⑦フォーム
 formを使用することで、
@@ -484,7 +484,7 @@ formを使用することで、
   </div>
 ```
 #### 結果
-![結果](../img/html/form.png)
+![結果](../img/form.png)
 
 ## まとめ
 非常に多くのことを書いていますが、
