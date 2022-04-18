@@ -27,7 +27,7 @@ TechNextエンジニア留学がより実りあるものにしていただきた
 4. HTML/CSS基礎
 5. JavaScript基礎
 
-以下のリンクからzipファイルをダウンロードしてください。
+以下のリンクからzipファイルをダウンロードしてください。<br>
 https://github.com/RazonaLuis/technext_pre/raw/main/pre-master.zip
 
 ※一部事前学習の回答を記述するファイル、回答例が入っています。
