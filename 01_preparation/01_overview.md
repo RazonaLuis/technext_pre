@@ -21,13 +21,14 @@ TechNextエンジニア留学がより実りあるものにしていただきた
 ## 概要
 取り組んでいただく内容は以下の通りです。
 
-利用ツールの案内
-タイピングとショートカット
-Web基礎
-HTML/CSS基礎
-JavaScript基礎
+1. 利用ツールの案内
+2. タイピングとショートカット
+3. Web基礎
+4. HTML/CSS基礎
+5. JavaScript基礎
+
 以下のリンクからzipファイルをダウンロードしてください。
-[リンク](attach:./pre-master.zip)
+https://github.com/RazonaLuis/technext_pre/raw/main/pre-master.zip
 
 ※一部事前学習の回答を記述するファイル、回答例が入っています。
 
