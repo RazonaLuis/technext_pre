@@ -284,7 +284,7 @@ https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Colors/Color_picker_tool
 必要に応じて確認してください。
 
 ## チェック表
-下記のリンクをクリックして質問にお答えください。
+下記のリンクをクリックして質問にお答えください。<br>
 https://docs.google.com/forms/d/e/1FAIpQLSc7u7r8CPdtr1mAIbaTtOJv-ECQRNzlLe1vFH1W53Gr2xaQBA/viewform?usp=sf_link
 
 ## 次の単元へ
