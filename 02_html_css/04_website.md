@@ -9,7 +9,8 @@ Webサイト作成の流れを理解している。
 
 実践的なwebサイトの作成を通して、今まで学んできた内容の定着をはかります。
 
-作成するWebサイト
+作成するWebサイトの見本は以下のimgフォルダーに入っています。<br>
+pre-master/question/html_css/welcome_to_technext/img/welcome_to_technext.png
 
 わからない部分は今までのカリキュラムを見返したり、 Google検索などしてみてください。
 

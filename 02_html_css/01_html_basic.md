@@ -414,14 +414,14 @@ th, td
 `<a>`のhref属性にリンク先のidの属性値を指定します。
 リンク先のタグに、id属性を指定します。
 ```html
- <a href="#section-01">概要へ移動します</a>
+ <a href="#section-01">TechNext概要へ移動します</a>
 
  <!-- 移動したことがわかりやすいように改行をいれています。 -->
  <br><br><br><br><br><br><br><br><br><br><br><br>
  <br><br><br><br><br><br><br><br><br><br><br><br>
  <br><br><br><br><br><br><br><br><br><br><br><br>
 
- <h2 id="section-01">概要</h2>
+ <h2 id="section-01">TechNext概要</h2>
 ```
 ##### 結果
 ![結果](../img/link.png)

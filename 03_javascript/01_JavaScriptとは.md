@@ -1,6 +1,6 @@
 # JavaScriptとは
 
-![ロゴ](./img/js_logo.png)
+![ロゴ](../img/js/js_logo.png)
 
 
 ## 学ぶこと
