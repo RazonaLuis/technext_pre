@@ -195,7 +195,7 @@ question/js/practiceが練習問題のフォルダです。 問題はquestion/js
 
 ## チェック表
 下記のリンクをクリックして質問にお答えください。<br>
-https://docs.google.com/forms/d/e/1FAIpQLScI5U6J0ukp65mPL-SvL7qUmCpew40-S53vONamIY-8hdD88A/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLScDnSIQLAZDd033XNfRW_OxO-wwj5BLUhmYd4cHOcWvCToLng/viewform?usp=sf_link
 
 ## 事前学習まとめ
 ここまでできたら事前学習は終了です。
