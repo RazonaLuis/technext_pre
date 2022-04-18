@@ -497,3 +497,7 @@ formを使用することで、
 2. 書き方と各部の名称
 3. HTMLの基本構成
 4. ブロック要素とインライン要素について
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/02_html_css/02_css_basic.md

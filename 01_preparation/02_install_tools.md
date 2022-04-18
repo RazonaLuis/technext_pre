@@ -35,3 +35,7 @@ https://code.visualstudio.com/download
 MacとWindowsでダウンロードするファイルが異なりますのでご注意ください。
 ダウンロードしたファイル(インストーラー)をダブルクリックして開き、インストールを進めます。
 インストールが完了したら、Visual Studio Codeが起動することを確認してください。
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/03_vscode.md

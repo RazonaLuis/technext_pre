@@ -33,3 +33,7 @@ JavaScript基礎
 
 ## 資料に関する重要事項
 *※使用するカリキュラムや配布資料・コードについて、学習目的以外での使用や転載等は固く禁じています。*
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/02_install_tools.md

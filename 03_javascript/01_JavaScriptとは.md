@@ -37,5 +37,9 @@ Webブラウザ上で実行されます。
 そのため、JavaScriptのファイルを作成して、
 ブラウザで開くのみです。
 
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/02_Javascript_basic.md
+
 
 

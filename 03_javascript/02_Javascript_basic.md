@@ -933,3 +933,7 @@ for (let i = 1; i <= 50; i++) {
 イメージがつかないと思いますが、
 このカリキュラムで学んだ内容がベースになるため、
 しっかりと理解できるまで復習しましょう！
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/03_Javascript_practice.md

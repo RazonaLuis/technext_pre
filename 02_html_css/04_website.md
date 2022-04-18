@@ -286,3 +286,7 @@ https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Colors/Color_picker_tool
 ## チェック表
 下記のリンクをクリックして質問にお答えください。
 https://docs.google.com/forms/d/e/1FAIpQLSctif3n5QnkA_nFBOjZ1OhY3823DRTIV0KvxUN5C41DVEgl6A/viewform?usp=sf_link
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/01_JavaScript%E3%81%A8%E3%81%AF.md

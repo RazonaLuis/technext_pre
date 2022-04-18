@@ -43,3 +43,7 @@ B未満の場合は、B以上になるように特訓しましょう。
 ## チェック表
 下記のリンクをクリックしてチェック表に答えてください！<br>
 https://docs.google.com/forms/d/e/1FAIpQLSdKztl1XYlnOfvOUxILUm9nrORq3yj0Zd2Ht_is5no_Fay8mw/viewform?usp=sf_link
+
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/02_html_css/01_html_basic.md

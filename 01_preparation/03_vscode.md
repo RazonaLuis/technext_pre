@@ -98,6 +98,10 @@ VS Codeには、便利な機能が元々たくさん備わっていますが、�
 - [VS Code公式 / コマンド一覧 (Windows)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [参考記事（日本語）](https://qiita.com/oruponu/items/ae9c720d4522c1606daf)
 
+## 次の単元へ
+次に進むには下記のリンクを押してください。
+https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/04_PDCA.md
+
 <!-- ### 一般
 |macOS|Windows|コマンド
 |:---| :--- | :--- |
