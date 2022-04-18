@@ -42,11 +42,7 @@ B未満の場合は、B以上になるように特訓しましょう。
 
 ## チェック表
 下記のリンクをクリックしてチェック表に答えてください！<br>
-
-[チェック表](https://docs.google.com/forms/d/e/1FAIpQLSdKztl1XYlnOfvOUxILUm9nrORq3yj0Zd2Ht_is5no_Fay8mw/viewform?usp=sf_link){:target="_blank"}<br>
-
-[link](https://technext.dreamcatcher.jp/){:target="_blank"}<br>
-
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdKztl1XYlnOfvOUxILUm9nrORq3yj0Zd2Ht_is5no_Fay8mw/viewform?usp=sf_link">チェック表</a>
 
 ## 次の単元へ
 次に進むには下記のリンクを押してください。<br>
