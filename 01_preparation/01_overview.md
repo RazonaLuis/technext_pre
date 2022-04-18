@@ -35,5 +35,5 @@ JavaScript基礎
 *※使用するカリキュラムや配布資料・コードについて、学習目的以外での使用や転載等は固く禁じています。*
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/02_install_tools.md

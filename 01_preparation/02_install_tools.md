@@ -37,5 +37,5 @@ MacとWindowsでダウンロードするファイルが異なりますのでご�
 インストールが完了したら、Visual Studio Codeが起動することを確認してください。
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/03_vscode.md

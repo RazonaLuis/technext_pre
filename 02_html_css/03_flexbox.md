@@ -290,7 +290,7 @@ hr {
 <br>
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/02_html_css/04_website.md
 
 

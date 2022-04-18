@@ -499,5 +499,5 @@ formを使用することで、
 4. ブロック要素とインライン要素について
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/02_html_css/02_css_basic.md

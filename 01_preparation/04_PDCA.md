@@ -26,5 +26,5 @@
 経験者 → PDCA1回に15分 × 3回転で完了 = 45分
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/01_preparation/05_pc_shortcuts.md

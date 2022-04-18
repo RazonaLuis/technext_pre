@@ -286,5 +286,5 @@ CSSにどのようなプロパティがあるか以下のサイトで調べて�
 - [CSSリファレンス | クイックリファレンス](http://www.htmq.com/css3/)
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/02_html_css/03_flexbox.md

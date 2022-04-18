@@ -288,5 +288,5 @@ https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Colors/Color_picker_tool
 https://docs.google.com/forms/d/e/1FAIpQLSctif3n5QnkA_nFBOjZ1OhY3823DRTIV0KvxUN5C41DVEgl6A/viewform?usp=sf_link
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/01_JavaScript%E3%81%A8%E3%81%AF.md

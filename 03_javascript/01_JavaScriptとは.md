@@ -38,7 +38,7 @@ Webブラウザ上で実行されます。
 ブラウザで開くのみです。
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/02_Javascript_basic.md
 
 

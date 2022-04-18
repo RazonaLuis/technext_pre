@@ -935,5 +935,5 @@ for (let i = 1; i <= 50; i++) {
 しっかりと理解できるまで復習しましょう！
 
 ## 次の単元へ
-次に進むには下記のリンクを押してください。
+次に進むには下記のリンクを押してください。<br>
 https://github.com/RazonaLuis/technext_pre/blob/main/03_javascript/03_Javascript_practice.md
