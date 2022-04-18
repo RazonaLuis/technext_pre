@@ -7,6 +7,8 @@
 ## タイピングチェック
 講義中メモをとったりコードを書いたりする際、スムーズにタイピングできる力は必須です。
 自分のタイピングスピードがどれくらいのレベルなのか、e-typingでチェックしてみましょう。
+e-typing
+https://www.e-typing.ne.jp/
 
 レベルがB以上なら、授業に問題なくついてこられるレベルです。
 B未満の場合は、B以上になるように特訓しましょう。
@@ -20,19 +22,21 @@ B未満の場合は、B以上になるように特訓しましょう。
 
 ## よく使用するショートカット一覧
 
-操作内容	キー（Mac）	キー（Windows）
-コピー	command + C	ctrl + C
-貼り付け	command + V	ctrl + V
-切り取り	command + X	ctrl + X
-全選択	command + A	ctrl + A
-保存	command + S	ctrl + S
-ファイルの新規作成	command + N	ctrl + N
-検索	command + F	ctrl + F
-更新	command + R	ctrl + R
-印刷	command + P	ctrl + P
-削除	command + delete	Delete
-スクリーンショット（画面全体）	command + shift + 3	Print Screen
-スクリーンショット（選択部分）	command + shift + 4	-
+|操作内容	|キー（Mac）|キー（Windows）
+|:---| :--- | :--- |
+|コピー	|command + C	| ctrl + C
+|貼り付け |command + V | ctrl + V
+|切り取り	|command + X	|ctrl + X
+|全選択	|command + A	|ctrl + A
+|保存	|command + S	|ctrl + S
+|ファイルの新規作成	|command + N	|ctrl + N
+|検索	|command + F	|ctrl + F
+|更新	|command + R	|ctrl + R
+|印刷	|command + P	|ctrl + P
+|削除	|command + delete|	Delete
+|スクリーンショット（画面全体）	|command + shift + 3	|Print Screen
+|スクリーンショット（選択部分）	|command + shift + 4	|-
+
 なお、ショートカットは各ツール固有のものも存在します。
 よく使うツールのショートカットは積極的に覚えるようにしましょう。
 
