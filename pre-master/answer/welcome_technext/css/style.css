@@ -38,7 +38,7 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-image: url(../img/background1.jpg);
+  background-image: url('../img/background1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -47,6 +47,7 @@
 
 .title{
   font-size: 80px;
+  text-shadow: 1px 1px black;
 }
 
 .guideline {

@@ -159,8 +159,8 @@ console.log('place'); //結果 place
 let name = 'talk talk';
 console.log(name); //結果 talk talk
 
-name = 'NexSeed';
-console.log(name);  //結果 NexSeed
+name = 'TechNext';
+console.log(name);  //結果 TechNext
 ```
 
 #### 練習問題
@@ -180,7 +180,7 @@ let country = 'Japan';
 console.log(country); 
 
 // 3
-country = 'Philippines'; 
+country = 'The U.S.'; 
 
 // 4
 console.log(country);
@@ -195,7 +195,7 @@ console.log(country);
 変数はシングルクォーテーションで囲まないため、
 文字列と変数を組み合わせて表示する場合、以下のようになります。
 ```js
-let schoolName = 'NexSeed';
+let schoolName = 'TechNext';
 console.log('私の所属先は、' + schoolName + 'です');
 ```
 上記でも正しいのですが、テンプレートリテラルを使用すると 以下のように簡潔に書くことができます。
@@ -279,7 +279,7 @@ student_list.push('Takahashi');
 
 ```js
 // 1
-let applications = ['LINE', 'Facebook', 'Twitter'];
+let applications = ['LINE', 'Instagram', 'Twitter'];
 
 // 2
 console.log(applications);
@@ -351,7 +351,7 @@ console.log(user.hobby); //結果 swim
 
 ```js
 // 1
-let capitalCities =  { Japan: 'Tokyo', Philippines: 'Manila' };
+let capitalCities =  { Japan: 'Tokyo', Spain: 'Madrid' };
 
 // 2
 console.log(capitalCities);
